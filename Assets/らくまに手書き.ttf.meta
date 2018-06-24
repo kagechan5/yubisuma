@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 9b50f5fe26c237f40924345f86243929
+timeCreated: 1527619738
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Rakumanitegaki
+  fontNames:
+  - Rakumanitegaki
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

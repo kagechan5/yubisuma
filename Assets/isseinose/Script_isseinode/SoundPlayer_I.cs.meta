@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 276efcdbd0204fe4b8ddd46241315c82
+timeCreated: 1527407806
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - kakegoe: {fileID: 8300000, guid: cd623a67e6511ef4c95b2ad44755c580, type: 3}
+  - zero: {fileID: 8300000, guid: e4c9b77e48a2eea4398062397dc06e0f, type: 3}
+  - one: {fileID: 8300000, guid: 1901fe0ad03c47a429b6ba2f958aba9b, type: 3}
+  - two: {fileID: 8300000, guid: 842b71ef23b19cf44b5aa8887896a35c, type: 3}
+  - three: {fileID: 8300000, guid: b9d8783a707792746b178b4fa6341c1f, type: 3}
+  - four: {fileID: 8300000, guid: f2c6c49878bf4654abc915483e16d781, type: 3}
+  - pardon: {instanceID: 0}
+  - onemore: {instanceID: 0}
+  - joy: {fileID: 8300000, guid: f3a44a6ba97e9dc42a0910a11639ef22, type: 3}
+  - sad: {fileID: 8300000, guid: db19ce3e28b530140aaf38f67fd2803a, type: 3}
+  - win: {fileID: 8300000, guid: aaa49d5905be0be4e960f5d542695521, type: 3}
+  - lose: {fileID: 8300000, guid: 96745504fce0dec44aa44acc22cb7dad, type: 3}
+  - yaru: {fileID: 8300000, guid: 304e9a444b2edf64ebb110be87a21569, type: 3}
+  - osi: {fileID: 8300000, guid: 91d013d05a26bc44489381d4b4238968, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
